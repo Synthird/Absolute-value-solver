@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class App {
+public class Example {
     static Scanner scanner = new Scanner(System.in);
     static FindAbsoluteValue findAbsoluteValue = new FindAbsoluteValue();
 
