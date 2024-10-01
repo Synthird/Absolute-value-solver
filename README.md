@@ -1,5 +1,5 @@
 # Absolute value solver
-A program that solves the absolute value of a number.
+A program that finds the absolute value of a number.
 
 ## findAbsoluteValue.findValue(double number);
 This method returns the absolute value of a double.
