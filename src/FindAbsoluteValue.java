@@ -1,5 +1,5 @@
 public class FindAbsoluteValue {
-    public float findValue(float number) {
+    public double findValue(double number) {
         return number < 0 ? number * -1 : number;
     }
 }
