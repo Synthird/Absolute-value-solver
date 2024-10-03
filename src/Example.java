@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
 public class Example {
-    static Scanner scanner = new Scanner(System.in);
-    static FindAbsoluteValue findAbsoluteValue = new FindAbsoluteValue();
+    private static Scanner scanner = new Scanner(System.in);
+    private static FindAbsoluteValue findAbsoluteValue = new FindAbsoluteValue();
 
     public static void main(String[] args) throws Exception {
         System.out.print("Please enter a number you want to find the absolute value of: ");
